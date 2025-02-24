@@ -1,0 +1,3 @@
+[submodule "child_repo_submodule"]
+	path = child_repo_submodule
+	url = git@github.com:borisnieuwenhuis/sub_repo_child.git
